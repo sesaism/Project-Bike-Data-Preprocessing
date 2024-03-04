@@ -1,8 +1,5 @@
 # Dicoding Collection Dashboard
-# Setup environment
----
+## Setup environment
 pip install streamlit
-
-# Run streamlit app
----
+## Run streamlit app
 streamlit run dashboard_bike_sharing.py
