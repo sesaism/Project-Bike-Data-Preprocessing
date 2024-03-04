@@ -1,5 +1,0 @@
-streamlit==1.26.0
-matplotlib==3.8.0
-numpy==1.25.2
-Babel=2.12.1
-seaborn==0.13.0
